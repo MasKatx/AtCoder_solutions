@@ -1,9 +1,11 @@
-filename: ***###-$$$
+filename: ***###@-$$$
   ***: contest's class e.g.) ABC
   ###: contest's number e.g.) 123
+  @  : problem's number e.g.) C
   $$$: problem's name e.g.) example-question
 
-ファイル名: ***###-$$$
+ファイル名: ***###@-$$$
   ***: コンテストのクラス 例) ABC
   ###: コンテスト番号 例) 123
+  @  : 問題番号 例) C
   $$$: 問題名 例) example-question
