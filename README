@@ -2,10 +2,12 @@ filename: ***###@-$$$
   ***: contest's class e.g.) ABC
   ###: contest's number e.g.) 123
   @  : problem's number e.g.) C
-  $$$: problem's name e.g.) example-question
+  $$$: problem's name e.g.) example question
+In the above case: ABC123C-example question
 
 ファイル名: ***###@-$$$
   ***: コンテストのクラス 例) ABC
   ###: コンテスト番号 例) 123
   @  : 問題番号 例) C
-  $$$: 問題名 例) example-question
+  $$$: 問題名 例) example question
+上記の場合: ABC123C-example question
